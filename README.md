@@ -1,4 +1,4 @@
-# Extracting-certificate-
+# Extracting-certificate
 Extracting the certificate and keys from a .pfx
 
 Download Git and install.
